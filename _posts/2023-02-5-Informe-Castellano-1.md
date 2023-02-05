@@ -6,6 +6,7 @@ published: true
 # Índice
 
 - [Índice](#%C3%8Dndice)
+  - [Introducción](#introducci%C3%B3n) 
   - [La literatura del siglo XII](#la-literatura-del-siglo-xii)
     - [¿Qué es?](#%C2%BFqu%C3%A9-es)
     - [Historia](#historia)
@@ -22,6 +23,10 @@ published: true
         - [Cantar de la afrenta de Corpes:](#cantar-de-la-afrenta-de-corpes)
     - [Métrica](#m%C3%A9trica)
     - [Tema central](#tema-central)
+
+## Introducción
+En este informe se puede hallar la investigación, recopilación, y explicación de todo lo importante sobre la literatura del siglo XII, el cantar del Mio Cid y el Mester de Juglaría. Obviamente, no se puede poner toda la información sobre todos los temas, pero esperamos que la información que hay sea de ayuda para introducirse en el tema o incluso acabar teniendo amplios conocimientos después de haber leído y entendido todo el contenido que hemos añadido.  
+Por último, esperamos que disfrutes de nuestro informe.  
 
 
 ## La literatura del siglo XII
